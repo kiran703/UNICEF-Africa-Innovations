@@ -20,3 +20,8 @@ This portfolio presents 3 frontier-tech prototypes designed for youth in Global 
 
 **License:** MIT (Open Source)
 **Built for:** UNICEF Venture Fund Internship Application 2026
+### About Me
+**Noor - B.S Zoology Student, Pakistan**
+- Currently pursuing B.S Zoology (Final Year) - Strong background in Human Biology, Health & Ecosystem
+- Student ID Card Verified | Passionate about One Health & Youth Innovation in Africa
+- Skills: Research, Biology, Community Health, Flutter, AI Basics
